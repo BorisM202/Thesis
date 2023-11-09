@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.9.13)  2 NOV 2023 15:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.9.13)  9 NOV 2023 21:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -426,8 +426,7 @@ LaTeX Info: Redefining \cite on input line 694.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/natbib/bibentry.sty
 Package: bibentry 2007/10/30 1.5 (PWD)
-)
-No file main.bbl.
+) (./main.bbl)
 (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty
 (/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
 (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
@@ -660,7 +659,10 @@ LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
 
 
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]) (./main.toc)
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]) (./main.toc
+LaTeX Font Info:    Font shape `T1/phv/b/n' will be
+(Font)              scaled to size 10.40245pt on input line 2.
+)
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
@@ -706,108 +708,71 @@ l.1 \chapter
 
 (./refs/publications.tex [10
 
-]
-LaTeX Font Info:    Trying to load font information for TS1+phv on input line 6
-.
-
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1phv.fd
-File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
-)
-LaTeX Font Info:    Font shape `TS1/phv/m/n' will be
-(Font)              scaled to size 10.40245pt on input line 6.
-
-
-Package natbib Warning: Citation `key' undefined on input line 6.
-
-) [11
+]) [11
 
 ] (./sections/main/intro.tex
 Chapter 1.
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 19.70294pt on input line 2.
+(Font)              scaled to size 19.70294pt on input line 1.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 19.70294pt on input line 2.
-[1
+(Font)              scaled to size 19.70294pt on input line 1.
+) (./sections/main/bg_and_rw.tex [1
 
 
 ]
-LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 11.39996pt on input line 2.
-LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 11.39996pt on input line 2.
- [2]
-LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 10.40245pt on input line 2.
- [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13])
-(./sections/main/bg_and_rw.tex [14]
 Chapter 2.
-) (./sections/main/analysis_fw.tex [15
+) (./sections/main/analysis_fw.tex [2
 
 ]
 Chapter 3.
-) (./sections/main/exp_det_results.tex [16
+) (./sections/main/exp_det_results.tex [3
 
 ]
 Chapter 4.
-) (./sections/main/conclusions.tex [17
+) (./sections/main/conclusions.tex [4
 
 ]
 Chapter 5.
-) [18
+) [5
 
-] [19
+] [6
 
 
 ] (./sections/appendices.tex
 Appendix A.
-[20
+[7
 
-] [21]
+] [8]
 Appendix B.
-)
-No file main.bbl.
+) (./main.bbl [9
 
-Package natbib Warning: There were undefined citations.
-
-[22
+]
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10.95> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 15.
+LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
+(Font)              scaled to size 10.40245pt on input line 15.
+) [10
 
 ] (./main.aux)
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: 9B8D804E4592B9FA80591CF6A5A95B93;84
-(rerunfilecheck)             After:  0E1DAC7CCF56234FC6A390A9D64D60FC;3819.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: A33294B4400E122BE608681175655466;2409.
  ) 
 Here is how much of TeX's memory you used:
- 16835 strings out of 478287
- 291399 string characters out of 5849289
- 717224 words of memory out of 5000000
- 34606 multiletter control sequences out of 15000+600000
- 503529 words of font info for 62 fonts, out of 8000000 for 9000
+ 16806 strings out of 478287
+ 291123 string characters out of 5849289
+ 702892 words of memory out of 5000000
+ 34612 multiletter control sequences out of 15000+600000
+ 501766 words of font info for 60 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 68i,12n,77p,541b,761s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 68i,11n,77p,616b,572s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy1
-0.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><
-/usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/t
-exlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf
--dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on main.pdf (34 pages, 184800 bytes).
+e/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1
+/urw/helvetic/uhvro8a.pfb>
+Output written on main.pdf (22 pages, 54276 bytes).
 PDF statistics:
- 280 PDF objects out of 1000 (max. 8388607)
- 217 compressed objects within 3 object streams
- 80 named destinations out of 1000 (max. 500000)
- 9 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 237 PDF objects out of 1000 (max. 8388607)
+ 204 compressed objects within 3 object streams
+ 45 named destinations out of 1000 (max. 500000)
+ 161 words of extra memory for PDF output out of 10000 (max. 10000000)
 
