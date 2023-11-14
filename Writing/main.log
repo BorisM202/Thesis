@@ -1,15 +1,15 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.9.13)  9 NOV 2023 21:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.11.14)  14 NOV 2023 20:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**main.tex
-(./main.tex
-LaTeX2e <2021-11-15> patch level 1
-L3 programming layer <2022-01-21>
-(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
-Document Class: book 2021/10/04 v1.4n Standard LaTeX document class
-(/usr/share/texlive/texmf-dist/tex/latex/base/bk11.clo
-File: bk11.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+**./main.tex
+(main.tex
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-08-29>
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/latex/base\book.cls
+Document Class: book 2023/05/17 v1.4n Standard LaTeX document class
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/latex/base\bk11.clo
+File: bk11.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count185
 \c@chapter=\count186
@@ -20,369 +20,408 @@ File: bk11.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 \c@subparagraph=\count191
 \c@figure=\count192
 \c@table=\count193
-\abovecaptionskip=\skip47
-\belowcaptionskip=\skip48
-\bibindent=\dimen138
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
 )
-(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks16
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
 )
-(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 
-(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
-Package: iftex 2020/03/06 v1.0d TeX engine tests
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
 \Gm@cnth=\count194
 \Gm@cntv=\count195
 \c@Gm@tempcnt=\count196
-\Gm@bindingoffset=\dimen139
-\Gm@wd@mp=\dimen140
-\Gm@odd@mp=\dimen141
-\Gm@even@mp=\dimen142
-\Gm@layoutwidth=\dimen143
-\Gm@layoutheight=\dimen144
-\Gm@layouthoffset=\dimen145
-\Gm@layoutvoffset=\dimen146
-\Gm@dimlist=\toks17
+\Gm@bindingoffset=\dimen141
+\Gm@wd@mp=\dimen142
+\Gm@odd@mp=\dimen143
+\Gm@even@mp=\dimen144
+\Gm@layoutwidth=\dimen145
+\Gm@layoutheight=\dimen146
+\Gm@layouthoffset=\dimen147
+\Gm@layoutvoffset=\dimen148
+\Gm@dimlist=\toks18
+
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
 )
-(/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
-Package: setspace 2011/12/19 v6.7a set line spacing
-)
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/helvet.sty
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\helvet.sty
 Package: helvet 2020/03/25 PSNFSS-v9.3 (WaS) 
 )
-(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 LaTeX Font Info:    Trying to load font information for T1+phv on input line 11
 2.
 
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1phv.fd
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1phv.fd
 File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
 )
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
 (Font)              scaled to size 10.40245pt on input line 112.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
-\inpenc@prehook=\toks18
-\inpenc@posthook=\toks19
+\inpenc@prehook=\toks19
+\inpenc@posthook=\toks20
 )
-(/usr/share/texlive/texmf-dist/tex/latex/nowidow/nowidow.sty
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/latex/nowidow\nowidow.sty
 Package: nowidow 2011/09/20 1.0 Easily prevent widows and orphans
 Package: nowidow 
 
-(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
-Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
-Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
-)))
-(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2022/01/26 3.70 The Babel package
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+))) (C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2023/09/29 v3.95 The Babel package
 \babel@savecnt=\count197
-\U@D=\dimen147
-\l@unhyphenated=\language87
+\U@D=\dimen149
+\l@unhyphenated=\language79
 
-(/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
 \bbl@readstream=\read2
 \bbl@dirlevel=\count198
 
-(/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english.l
+df
 Language: english 2017/06/06 v3.3r English support from the babel system
 Package babel Info: Hyphen rules for 'canadian' set to \l@english
 (babel)             (\language0). Reported on input line 102.
 Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
-(babel)             (\language25). Reported on input line 105.
+(babel)             (\language73). Reported on input line 105.
 Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
-(babel)             (\language25). Reported on input line 108.
+(babel)             (\language73). Reported on input line 108.
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/datetime2/datetime2.sty
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/en\babel
+-english.tex
+Package babel Info: Importing font and identification data for english
+(babel)             from babel-en.ini. Reported on input line 11.
+)
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/latex/datetime2\datetime2.sty
 Package: datetime2 2021/03/21 v1.5.7 (NLCT) date and time formats
 
-(/usr/share/texlive/texmf-dist/tex/latex/tracklang/tracklang.sty
-Package: tracklang 2020/06/30 v1.5 (NLCT) Track Languages
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/latex/tracklang\tracklang.sty
+Package: tracklang 2022/12/13 v1.6.1 (NLCT) Track Languages
 
-(/usr/share/texlive/texmf-dist/tex/generic/tracklang/tracklang.tex))
-(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/generic/tracklang\tracklang.t
+ex))
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count199
 )
-(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
-Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
 
-(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
-(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks20
-\XKV@tempa@toks=\toks21
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks21
+\XKV@tempa@toks=\toks22
 )
 \XKV@depth=\count266
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/datetime2-english/datetime2-english.ld
-f
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/latex/datetime2-english\datet
+ime2-english.ldf
 File: datetime2-english.ldf 2019/10/21 v1.05 (NLCT)
 
-(/usr/share/texlive/texmf-dist/tex/latex/datetime2-english/datetime2-english-ba
-se.ldf
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/latex/datetime2-english\datet
+ime2-english-base.ldf
 File: datetime2-english-base.ldf 2019/10/21 v1.05 (NLCT)
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/datetime2-english/datetime2-en-IE.ldf
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/latex/datetime2-english\datet
+ime2-en-IE.ldf
 File: datetime2-en-IE.ldf 2019/10/21 v1.05 (NLCT)
-)) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+))
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
-File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 ))
-\Gin@req@height=\dimen148
-\Gin@req@width=\dimen149
+\Gin@req@height=\dimen150
+\Gin@req@width=\dimen151
 )
-(/usr/share/texlive/texmf-dist/tex/latex/subfiles/subfiles.sty
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/latex/subfiles\subfiles.sty
 Package: subfiles 2020/11/14 v2.2 Multi-file projects (package)
 
-(/usr/share/texlive/texmf-dist/tex/latex/import/import.sty
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/latex/import\import.sty
 Package: import 2020/04/01  v 6.2
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/tocbibind/tocbibind.sty
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/latex/tocbibind\tocbibind.sty
 Package: tocbibind 2010/10/13 v1.5k extra ToC listings
 Package tocbibind Info: The document has chapter divisions on input line 50.
 
-
 Package tocbibind Note: Using chapter style headings, unless overridden.
 
-) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2021/10/15 v2.17l AMS math features
-\@mathmargin=\skip49
+) (C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2023/05/13 v2.17o AMS math features
+\@mathmargin=\skip50
 
 For additional information on amsmath, use the `?' option.
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
 Package: amstext 2021/08/26 v2.01 AMS text
 
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks22
-\ex@=\dimen150
+\@emptytoks=\toks23
+\ex@=\dimen152
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen151
+\pmbraise@=\dimen153
 )
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
-Package: amsopn 2021/08/26 v2.02 operator names
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
 )
 \inf@bad=\count267
 LaTeX Info: Redefining \frac on input line 234.
 \uproot@=\count268
 \leftroot@=\count269
 LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
 \classnum@=\count270
 \DOTSCASE@=\count271
 LaTeX Info: Redefining \ldots on input line 496.
 LaTeX Info: Redefining \dots on input line 499.
 LaTeX Info: Redefining \cdots on input line 620.
-\Mathstrutbox@=\box50
-\strutbox@=\box51
-\big@size=\dimen152
+\Mathstrutbox@=\box51
+\strutbox@=\box52
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen154
 LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
 \macc@depth=\count272
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
 \c@MaxMatrixCols=\count273
 \dotsspace@=\muskip16
 \c@parentequation=\count274
 \dspbrk@lvl=\count275
-\tag@help=\toks23
+\tag@help=\toks24
 \row@=\count276
 \column@=\count277
 \maxfields@=\count278
-\andhelp@=\toks24
-\eqnshift@=\dimen153
-\alignsep@=\dimen154
-\tagshift@=\dimen155
-\tagwidth@=\dimen156
-\totwidth@=\dimen157
-\lineht@=\dimen158
-\@envbody=\toks25
-\multlinegap=\skip50
-\multlinetaggap=\skip51
-\mathdisplay@stack=\toks26
-LaTeX Info: Redefining \[ on input line 2938.
-LaTeX Info: Redefining \] on input line 2939.
+\andhelp@=\toks25
+\eqnshift@=\dimen155
+\alignsep@=\dimen156
+\tagshift@=\dimen157
+\tagwidth@=\dimen158
+\totwidth@=\dimen159
+\lineht@=\dimen160
+\@envbody=\toks26
+\multlinegap=\skip51
+\multlinetaggap=\skip52
+\mathdisplay@stack=\toks27
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
-Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
-\col@sep=\dimen159
-\ar@mcellbox=\box52
-\extrarowheight=\dimen160
-\NC@list=\toks27
-\extratabsurround=\skip52
-\backup@length=\skip53
-\ar@cellbox=\box53
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen161
+\ar@mcellbox=\box53
+\extrarowheight=\dimen162
+\NC@list=\toks28
+\extratabsurround=\skip53
+\backup@length=\skip54
+\ar@cellbox=\box54
 )
-(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/pdflscape/pdflscape.sty
-Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape.sty
+Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape-nom
+etadata.sty
+Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PD
+F (HO)
+
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
 Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
-)
-(/usr/share/texlive/texmf-dist/tex/latex/algorithms/algorithm.sty
+))
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/latex/algorithms\algorithm.st
+y
 Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
 nment
-
-(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+ (C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count279
-\float@exts=\toks28
-\float@box=\box54
-\@float@everytoks=\toks29
-\@floatcapt=\box55
+\float@exts=\toks29
+\float@box=\box55
+\@float@everytoks=\toks30
+\@floatcapt=\box56
 )
-(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
-Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 )
-\@float@every@algorithm=\toks30
+\@float@every@algorithm=\toks31
 \c@algorithm=\count280
 )
-(/usr/share/texlive/texmf-dist/tex/latex/algorithms/algorithmic.sty
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/latex/algorithms\algorithmic.
+sty
 Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
 \c@ALC@unique=\count281
 \c@ALC@line=\count282
 \c@ALC@rem=\count283
 \c@ALC@depth=\count284
-\ALC@tlm=\skip54
-\algorithmicindent=\skip55
+\ALC@tlm=\skip55
+\algorithmicindent=\skip56
 )
-(/usr/share/texlive/texmf-dist/tex/latex/footmisc/footmisc.sty
-Package: footmisc 2011/06/06 v5.5b a miscellany of footnote facilities
-\FN@temptoken=\toks31
-\footnotemargin=\dimen161
-\c@pp@next@reset=\count285
-Package footmisc Info: Declaring symbol style bringhurst on input line 855.
-Package footmisc Info: Declaring symbol style chicago on input line 863.
-Package footmisc Info: Declaring symbol style wiley on input line 872.
-Package footmisc Info: Declaring symbol style lamport-robust on input line 883.
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/latex/footmisc\footmisc.sty
+Package: footmisc 2023/07/05 v6.0f a miscellany of footnote facilities
+\FN@temptoken=\toks32
+\footnotemargin=\dimen163
+\@outputbox@depth=\dimen164
+Package footmisc Info: Declaring symbol style bringhurst on input line 696.
+Package footmisc Info: Declaring symbol style chicago on input line 704.
+Package footmisc Info: Declaring symbol style wiley on input line 713.
+Package footmisc Info: Declaring symbol style lamport-robust on input line 724.
 
-Package footmisc Info: Declaring symbol style lamport* on input line 903.
-Package footmisc Info: Declaring symbol style lamport*-robust on input line 924
+Package footmisc Info: Declaring symbol style lamport* on input line 744.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 765
 .
 )
-(/usr/share/texlive/texmf-dist/tex/latex/appendix/appendix.sty
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/latex/appendix\appendix.sty
 Package: appendix 2020/02/08 v1.2c extra appendix facilities
-\c@@pps=\count286
-\c@@ppsavesec=\count287
-\c@@ppsaveapp=\count288
+\c@@pps=\count285
+\c@@ppsavesec=\count286
+\c@@ppsaveapp=\count287
 )
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2021-06-07 v7.00m Hypertext links for LaTeX
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2023-07-08 v7.01b Hypertext links for LaTeX
 
-(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
+keys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
+ty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
-)
-(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+) (C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro
+.sty
 Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
-\@linkdim=\dimen162
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2023-08-07 v2.53 Cross-referencing by name of section
+
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
+lestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count288
+)
+\@linkdim=\dimen165
 \Hy@linkcounter=\count289
 \Hy@pagecounter=\count290
 
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2023-07-08 v7.01b Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
-File: hyperref-langpatches.def 2021-06-07 v7.00m Hyperref: patches for babel la
-nguages
-)
-(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
-)
-(/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
-Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
 \Hy@SavedSpaceFactor=\count291
 
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
-File: puenc.def 2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2023-07-08 v7.01b Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
-Package hyperref Info: Hyper figures OFF on input line 4192.
-Package hyperref Info: Link nesting OFF on input line 4197.
-Package hyperref Info: Hyper index ON on input line 4200.
-Package hyperref Info: Plain pages OFF on input line 4207.
-Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Hyper figures OFF on input line 4167.
+Package hyperref Info: Link nesting OFF on input line 4172.
+Package hyperref Info: Hyper index ON on input line 4175.
+Package hyperref Info: Plain pages OFF on input line 4182.
+Package hyperref Info: Backreferencing OFF on input line 4187.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4445.
+Package hyperref Info: Bookmarks ON on input line 4434.
 \c@Hy@tempcnt=\count292
-LaTeX Info: Redefining \url on input line 4804.
-\XeTeXLinkMargin=\dimen163
+LaTeX Info: Redefining \url on input line 4772.
+\XeTeXLinkMargin=\dimen166
 
-(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 
-(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
+.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
 \Fld@menulength=\count293
-\Field@Width=\dimen164
-\Fld@charsize=\dimen165
-Package hyperref Info: Hyper figures OFF on input line 6076.
-Package hyperref Info: Link nesting OFF on input line 6081.
-Package hyperref Info: Hyper index ON on input line 6084.
-Package hyperref Info: backreferencing OFF on input line 6091.
-Package hyperref Info: Link coloring OFF on input line 6096.
-Package hyperref Info: Link coloring with OCG OFF on input line 6101.
-Package hyperref Info: PDF/A mode OFF on input line 6106.
-LaTeX Info: Redefining \ref on input line 6146.
-LaTeX Info: Redefining \pageref on input line 6150.
+\Field@Width=\dimen167
+\Fld@charsize=\dimen168
+Package hyperref Info: Hyper figures OFF on input line 6051.
+Package hyperref Info: Link nesting OFF on input line 6056.
+Package hyperref Info: Hyper index ON on input line 6059.
+Package hyperref Info: backreferencing OFF on input line 6066.
+Package hyperref Info: Link coloring OFF on input line 6071.
+Package hyperref Info: Link coloring with OCG OFF on input line 6076.
+Package hyperref Info: PDF/A mode OFF on input line 6081.
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
@@ -391,11 +430,10 @@ package with kernel methods
 \c@Hfootnote=\count296
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2023-07-08 v7.01b Hyperref driver for pdfTeX
 
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2021-06-07 v7.00m Hyperref driver for pdfTeX
-
-(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
 kage
 with kernel methods
@@ -403,52 +441,57 @@ with kernel methods
 \Fld@listcount=\count297
 \c@bookmark@seq@number=\count298
 
-(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
-Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
+echeck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
 
-(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
+ounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
-86.
+85.
 )
-\Hy@SectionHShift=\skip56
+\Hy@SectionHShift=\skip57
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 44.
-Package hyperref Info: Option `linktocpage' set `true' on input line 44.
+Package hyperref Info: Option `colorlinks' set `true' on input line 45.
+Package hyperref Info: Option `linktocpage' set `true' on input line 45.
 
-(/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/latex/natbib\natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
-\bibhang=\skip57
-\bibsep=\skip58
+\bibhang=\skip58
+\bibsep=\skip59
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count299
 )
-(/usr/share/texlive/texmf-dist/tex/latex/natbib/bibentry.sty
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/latex/natbib\bibentry.sty
 Package: bibentry 2007/10/30 1.5 (PWD)
-) (./main.bbl)
-(/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty
-(/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
-(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2022-01-21 L3 programming layer (loader) 
+)
+(main.bbl)
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.sty
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3k
+eys2e.sty
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2023-08-29 L3 programming layer (loader) 
 
-(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count300
-\l__pdf_internal_box=\box56
+\l__pdf_internal_box=\box57
 ))
-Package: l3keys2e 2022-01-12 LaTeX2e option processing using LaTeX3 keys
+Package: l3keys2e 2023-08-29 LaTeX2e option processing using LaTeX3 keys
 )
 Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
 \g__lipsum_par_int=\count301
 \l__lipsum_a_int=\count302
 \l__lipsum_b_int=\count303
 
-(/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex))
-(/usr/share/texlive/texmf-dist/tex/latex/blindtext/blindtext.sty
-Package: blindtext 2012/01/06 V2.0 blindtext-Package
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex))
 
-(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/latex/blindtext\blindtext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/latex/tools\xspace.sty
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 )
 \c@blindtext=\count304
@@ -470,69 +513,67 @@ Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 \c@blind@pangramcount=\count320
 \c@blind@pangrammax=\count321
 )
-(/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
 Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
-\multirow@colwidth=\skip59
+\multirow@colwidth=\skip60
 \multirow@cntb=\count322
-\multirow@dima=\skip60
-\bigstrutjot=\dimen166
+\multirow@dima=\skip61
+\bigstrutjot=\dimen169
 )
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/rotating.sty
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/latex/graphics\rotating.sty
 Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
 \c@r@tfl@t=\count323
-\rotFPtop=\skip61
-\rotFPbot=\skip62
-\rot@float@box=\box57
-\rot@mess@toks=\toks32
+\rotFPtop=\skip62
+\rotFPbot=\skip63
+\rot@float@box=\box58
+\rot@mess@toks=\toks33
 )
-(/usr/share/texlive/texmf-dist/tex/latex/tools/dcolumn.sty
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/latex/tools\dcolumn.sty
 Package: dcolumn 2014/10/28 v1.06 decimal alignment package (DPC)
 )
-(/usr/share/texmf/tex/latex/xcolor/xcolor.sty
-Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package xcolor Info: Driver file: pdftex.def on input line 225.
-
-(/usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty
-Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
-\everycr=\toks33
-\minrowclearance=\skip63
-)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/latex/colortbl\colortbl.sty
+Package: colortbl 2022/06/20 v1.0f Color table columns (DPC)
+\everycr=\toks34
+\minrowclearance=\skip64
 \rownum=\count324
-Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
-Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
-Package xcolor Info: Model `RGB' extended on input line 1353.
-Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
-Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
-Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
-Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
-Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
-Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
-
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def
+)
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/latex/graphics\dvipsnam.def
 File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
-))
-(/usr/share/texlive/texmf-dist/tex/latex/grffile/grffile.sty
+)) (C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/latex/grffile\grffile.sty
 Package: grffile 2019/11/11 v2.1 Extended file name support for graphics (legac
 y)
 Package grffile Info: This package is an empty stub for compatibility on input 
 line 40.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and foote
-rs
-\f@nch@headwidth=\skip64
-\f@nch@O@elh=\skip65
-\f@nch@O@erh=\skip66
-\f@nch@O@olh=\skip67
-\f@nch@O@orh=\skip68
-\f@nch@O@elf=\skip69
-\f@nch@O@erf=\skip70
-\f@nch@O@olf=\skip71
-\f@nch@O@orf=\skip72
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip65
+\f@nch@O@elh=\skip66
+\f@nch@O@erh=\skip67
+\f@nch@O@olh=\skip68
+\f@nch@O@orh=\skip69
+\f@nch@O@elf=\skip70
+\f@nch@O@erf=\skip71
+\f@nch@O@olf=\skip72
+\f@nch@O@orf=\skip73
 )
    defining Unicode char U+2502 (decimal 9474)
    defining Unicode char U+251C (decimal 9500)
@@ -541,27 +582,28 @@ rs
 \c@chapter@last@figure=\count325
 \c@chapter@last@table=\count326
 \c@chapter@last@algorithm=\count327
- (./main.aux)
+
+(main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 145.
-LaTeX Font Info:    ... okay on input line 145.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 145.
-LaTeX Font Info:    ... okay on input line 145.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 145.
-LaTeX Font Info:    ... okay on input line 145.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 145.
-LaTeX Font Info:    ... okay on input line 145.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 145.
-LaTeX Font Info:    ... okay on input line 145.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 145.
-LaTeX Font Info:    ... okay on input line 145.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 145.
-LaTeX Font Info:    ... okay on input line 145.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 145.
-LaTeX Font Info:    ... okay on input line 145.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 145.
-LaTeX Font Info:    ... okay on input line 145.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 146.
+LaTeX Font Info:    ... okay on input line 146.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 146.
+LaTeX Font Info:    ... okay on input line 146.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 146.
+LaTeX Font Info:    ... okay on input line 146.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 146.
+LaTeX Font Info:    ... okay on input line 146.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 146.
+LaTeX Font Info:    ... okay on input line 146.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 146.
+LaTeX Font Info:    ... okay on input line 146.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 146.
+LaTeX Font Info:    ... okay on input line 146.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 146.
+LaTeX Font Info:    ... okay on input line 146.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 146.
+LaTeX Font Info:    ... okay on input line 146.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -597,50 +639,38 @@ LaTeX Font Info:    ... okay on input line 145.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count328
-\scratchdimen=\dimen167
-\scratchbox=\box58
+\scratchdimen=\dimen170
+\scratchbox=\box59
 \nofMPsegments=\count329
 \nofMParguments=\count330
-\everyMPshowfont=\toks34
+\everyMPshowfont=\toks35
 \MPscratchCnt=\count331
-\MPscratchDim=\dimen168
+\MPscratchDim=\dimen171
 \MPnumerator=\count332
 \makeMPintoPDFobject=\count333
-\everyMPtoPDFconversion=\toks35
-) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+\everyMPtoPDFconversion=\toks36
+)
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
-e
+(C:\Users\morin\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring ON on input line 145.
-
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
-Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
-
-(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
-Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
-)
-(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
-Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
-)
-\c@section@level=\count334
-)
-LaTeX Info: Redefining \ref on input line 145.
-LaTeX Info: Redefining \pageref on input line 145.
-LaTeX Info: Redefining \nameref on input line 145.
-
-(./main.out) (./main.out)
+Package hyperref Info: Link coloring ON on input line 146.
+ (main.out) (main.out)
 \@outlinefile=\write3
 \openout3 = `main.out'.
 
- (./sections/front/title.tex
+ (sections/front/title.tex
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
 (Font)              scaled to size 23.63593pt on input line 6.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
@@ -659,77 +689,91 @@ LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
 
 
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]) (./main.toc
+{C:/Users/morin/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/mori
+n/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}]) (main.toc
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
 (Font)              scaled to size 10.40245pt on input line 2.
 )
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
- (./sections/front/abstract.texpdfTeX warning (ext4): destination with the same
- identifier (name{page.i}) has been already used, duplicate ignored
+ (sections/front/abstract.tex
+pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has 
+been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.1 \chapter
             {Abstract}%approximately 300 words [1
 
 ])
-(./sections/front/fundings.tex [2
+(sections/front/fundings.tex [2
 
-]) (./sections/front/statement.tex [3
-
-])
-(./sections/front/collaborations.tex [4
+]) (sections/front/statement.tex [3
 
 ])
-(./sections/front/acknowledgements.tex [5
+(sections/front/collaborations.tex [4
 
-]) (./sections/front/dedication.tex
-[6
+]) (sections/front/acknowledgements.tex
+[5
+
+]) (sections/front/dedication.tex [6
 
 ]) [7
 
-] (./main.lot)
+] (main.lot)
 \tf@lot=\write5
 \openout5 = `main.lot'.
 
  [8
 
-] (./main.lof)
+] (main.lof
+Overfull \hbox (19.74953pt too wide) detected at line 10
+\T1/phv/b/n/10.95 1 Introduction 
+ []
+
+)
 \tf@lof=\write6
 \openout6 = `main.lof'.
 
  [9
 
-] (./main.loa)
+] (main.loa)
 \tf@loa=\write7
 \openout7 = `main.loa'.
 
-
-(./refs/publications.tex [10
+ (refs/publications.tex [10
 
 ]) [11
 
-] (./sections/main/intro.tex
+] (sections/main/intro.tex
 Chapter 1.
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
 (Font)              scaled to size 19.70294pt on input line 1.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
 (Font)              scaled to size 19.70294pt on input line 1.
-) (./sections/main/bg_and_rw.tex [1
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10.95> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 5.
+LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
+(Font)              scaled to size 10.40245pt on input line 5.
+<../Figures/albedo_avg_clim.png, id=160, 462.528pt x 346.896pt>
+File: ../Figures/albedo_avg_clim.png Graphic file (type png)
+<use ../Figures/albedo_avg_clim.png>
+Package pdftex.def Info: ../Figures/albedo_avg_clim.png  used on input line 9.
+(pdftex.def)             Requested size: 227.62204pt x 170.71628pt.
+) (sections/main/bg_and_rw.tex [1
 
 
-]
+ <../Figures/albedo_avg_clim.png>]
 Chapter 2.
-) (./sections/main/analysis_fw.tex [2
+) (sections/main/analysis_fw.tex [2
 
 ]
 Chapter 3.
-) (./sections/main/exp_det_results.tex [3
+) (sections/main/exp_det_results.tex [3
 
 ]
 Chapter 4.
-) (./sections/main/conclusions.tex [4
+) (sections/main/conclusions.tex [4
 
 ]
 Chapter 5.
@@ -738,41 +782,41 @@ Chapter 5.
 ] [6
 
 
-] (./sections/appendices.tex
+] (sections/appendices.tex
 Appendix A.
 [7
 
 ] [8]
 Appendix B.
-) (./main.bbl [9
+) (main.bbl [9
 
-]
-LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10.95> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 15.
-LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
-(Font)              scaled to size 10.40245pt on input line 15.
-) [10
+]) [10
 
-] (./main.aux)
+] (main.aux)
+ ***********
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-08-29>
+ ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: A33294B4400E122BE608681175655466;2409.
  ) 
 Here is how much of TeX's memory you used:
- 16806 strings out of 478287
- 291123 string characters out of 5849289
- 702892 words of memory out of 5000000
- 34612 multiletter control sequences out of 15000+600000
- 501766 words of font info for 60 fonts, out of 8000000 for 9000
+ 16892 strings out of 475248
+ 296270 string characters out of 5757812
+ 1931785 words of memory out of 5000000
+ 38011 multiletter control sequences out of 15000+600000
+ 590576 words of font info for 68 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 68i,11n,77p,616b,572s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
-e/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1
-/urw/helvetic/uhvro8a.pfb>
-Output written on main.pdf (22 pages, 54276 bytes).
+ 79i,11n,93p,692b,684s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/morin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
+cmmi10.pfb><C:/Users/morin/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmr10.pfb><C:/Users/morin/AppData/Local/Programs/MiKTeX/fonts/type1/ur
+w/helvetic/uhvb8a.pfb><C:/Users/morin/AppData/Local/Programs/MiKTeX/fonts/type1
+/urw/helvetic/uhvr8a.pfb><C:/Users/morin/AppData/Local/Programs/MiKTeX/fonts/ty
+pe1/urw/helvetic/uhvro8a.pfb>
+Output written on main.pdf (22 pages, 158181 bytes).
 PDF statistics:
- 237 PDF objects out of 1000 (max. 8388607)
- 204 compressed objects within 3 object streams
- 45 named destinations out of 1000 (max. 500000)
- 161 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 247 PDF objects out of 1000 (max. 8388607)
+ 46 named destinations out of 1000 (max. 500000)
+ 166 words of extra memory for PDF output out of 10000 (max. 10000000)
 
