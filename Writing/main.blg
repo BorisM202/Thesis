@@ -1,55 +1,52 @@
-This is BibTeX, Version 0.99d
+This is BibTeX, Version 0.99d (TeX Live 2022/dev/Debian)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: main.aux
-Reallocating 'name_of_file' (item size: 1) to 7 items.
 The style file: rusnat.bst
-Reallocating 'name_of_file' (item size: 1) to 16 items.
 Database file #1: refs/references.bib
-Warning--need volume or number in garciaclimate
-Warning--empty pages in garciaclimate
+Warning--need volume or number in garciaclimate2021
 ptr=1, stack=
-{\EM Garc{\'\i}a C{\'a}maro, Dwyer Ned, Gault Jeremy}
----the literal stack isn't empty for entry garciaclimate
+{\EM Walther C.A. Cámaro~García Ned~Dwyer, Gault Jeremy}
+---the literal stack isn't empty for entry garciaclimate2021
 while executing---line 884 of file rusnat.bst
 You've used 2 entries,
             1755 wiz_defined-function locations,
-            427 strings with 3352 characters,
-and the built_in function-call counts, 1172 in all, are:
-= -- 80
-> -- 116
-< -- 0
-+ -- 45
-- -- 42
-* -- 128
-:= -- 236
-add.period$ -- 8
+            429 strings with 3368 characters,
+and the built_in function-call counts, 1315 in all, are:
+= -- 103
+> -- 108
+< -- 2
++ -- 42
+- -- 39
+* -- 131
+:= -- 243
+add.period$ -- 9
 call.type$ -- 2
 change.case$ -- 0
 chr.to.int$ -- 2
-cite$ -- 4
-duplicate$ -- 29
-empty$ -- 58
-format.name$ -- 44
-if$ -- 204
+cite$ -- 3
+duplicate$ -- 39
+empty$ -- 73
+format.name$ -- 43
+if$ -- 248
 int.to.chr$ -- 1
 int.to.str$ -- 1
 missing$ -- 0
 newline$ -- 15
 num.names$ -- 8
-pop$ -- 21
+pop$ -- 19
 preamble$ -- 1
-purify$ -- 20
+purify$ -- 19
 quote$ -- 0
-skip$ -- 18
+skip$ -- 30
 stack$ -- 0
-substring$ -- 44
-swap$ -- 2
-text.length$ -- 0
+substring$ -- 76
+swap$ -- 11
+text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 6
-warning$ -- 2
-while$ -- 8
+warning$ -- 1
+while$ -- 11
 width$ -- 0
-write$ -- 27
+write$ -- 28
 (There was 1 error message)

@@ -4,11 +4,6 @@
 \providecommand{\RNtxt}{\relax}
 \RNtxt{}
 
-\bibitem[Garc{\'\i}a et~al.(2020)C.~Garc{\'\i}a, N.~Dwyer,
-  J.~Gault]{garciaclimate}
-Climate Status Report for Ireland 2020.
-\newblock  \allowbreak\newblock// . 2020.
-
 \bibitem[Hersbach et~al.(2020)H.~Hersbach, B.~Bell, P.~Berrisford, S.~Hirahara,
   A.~Hor{\'a}nyi, J.~Mu{\~n}oz-Sabater, J.~Nicolas, C.~Peubey, R.~Radu,
   D.~Schepers, et~al.]{hersbach2020era5}
@@ -17,5 +12,10 @@ Climate Status Report for Ireland 2020.
   Radu Raluca, Schepers Dinand, others }.
 \newblock The ERA5 global reanalysis \allowbreak\newblock// Quarterly Journal
   of the Royal Meteorological Society. 2020. 146, 730. 1999--2049.
+
+\bibitem[Walther C.A. Cámaro~García, Gault(2021)N.~D. Walther C.A.
+  Cámaro~García, J.~Gault]{garciaclimate2021}
+Climate Status Report for Ireland 2020.
+\newblock  \allowbreak\newblock// . 2021.  144--146.
 
 \end{thebibliography}
